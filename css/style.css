@@ -1,0 +1,33 @@
+body{
+    background-color: #ecf4f5;
+}
+.panda-nav-bg{
+    background-color: #e4e7eb;
+}
+.carousel-control-prev {
+    left: -70px;
+}
+
+.carousel-control-next {
+    right: -70px;
+}
+.panda-bg-info{
+   background-color: #f1dde4;
+}
+.panda-btn{
+    background-color: #e84393;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 8px 20px;
+    border-radius: 6px;
+}
+.panda-bg{
+    background-color: #636e72;
+}
+.panda-bg1{
+    background-color: #95afc0;
+}
+.panda-bg2{
+    background-color: #30336b;
+}
